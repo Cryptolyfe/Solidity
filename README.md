@@ -42,9 +42,6 @@
 
 # Level Two: Tiered Profit Splitter
 <br />
-<br />
-
-
 
 ## After coding is complete…
 
