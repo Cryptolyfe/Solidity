@@ -1,6 +1,3 @@
-# Solidity
-Homework for Solidity
-
 # Associates Profit Splitter
 
 
