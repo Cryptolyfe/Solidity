@@ -35,11 +35,11 @@ Homework for Solidity
 
 ![krbylogo](Images_2/deploying_contract.png)
 
-### choose the appropriate addresses
+### Choose the appropriate addresses
 
 ![krbylogo](Images_2/choosing_addresses.png)
 
-### paste the appropriate addresses
+### Paste the appropriate addresses
 
 ![krbylogo](Images_2/pasting_addressespng)
 
@@ -47,7 +47,7 @@ Homework for Solidity
 
 ![krbylogo](Images_2/compiling.png)
 
-### Approve the transaction
+### Approve the transaction...
 
 ![krbylogo](Images_2/approve_transaction.png)
 
@@ -55,6 +55,15 @@ Homework for Solidity
 
 ![krbylogo](Images_2/checking_transaction_history.png)
 
-### Check the transaction history to confirm the contract was created successfully
+### Check the transaction history to confirm the contract was created successfully.
+
+![krbylogo](Images_2/transaction_2.png)
+
+### deploy the payment to the tiers.
+
+![krbylogo](Images_2/confirm_split_sent.png)
+
+### Check the transaction history to confirm the splits were sent accordingly.
+
 
 
