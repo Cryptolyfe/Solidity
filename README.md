@@ -7,7 +7,7 @@
 ![krbylogo](Images_1/deploying_contract.png)
 
 
-## choose the appropriate addresses
+## Choose the appropriate addresses...
 
 
 ![krbylogo](Images_1/choosing_addresses.png)
@@ -31,11 +31,16 @@
 ![krbylogo](Images_1/checking_transaction_history.png)
 
 
-## Check the transaction history to confirm the contract was created successfully
+## Finally, Check the transaction history to confirm the contract was created successfully!
+
+
 
 
 
 # Tiered Profit Splitter
+
+
+
 
 
 ## After coding is complete…
