@@ -35,7 +35,7 @@
 
 ## Finally, Check the transaction history to confirm the contract was created successfully!
 
-
+<br />
 <br />
 <br />
 <br />
