@@ -19,7 +19,7 @@
 ![krbylogo](Images_1/compiling.png)
 
 
-## Approve the transaction
+## Approve the transaction...
 
 
 ![krbylogo](Images_1/approve_transaction.png)
